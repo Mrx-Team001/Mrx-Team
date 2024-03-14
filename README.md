@@ -1,4 +1,4 @@
-[rm -rf Mrx-Team
+rm -rf Mrx-Team
 
 git clone https://github.com/Mrx-Team001/Mrx-Team.git
 
